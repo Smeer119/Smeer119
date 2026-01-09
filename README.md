@@ -1,5 +1,28 @@
-# 💫 About Me:
-i am looking for the intership in ai and fullstack devlopmet i have won multiple hackthons and also created multiple full stack and ai based applicaiotn for my client<br>s
+💫 About Me
+
+Hi 👋 I’m Sujal Bagavan, an AI & Full-Stack Developer actively seeking an internship.
+
+🏆 Winner of multiple hackathons
+
+🤖 Built AI-powered systems and full-stack applications for real clients
+
+🧠 Strong interest in AI orchestration, scalable systems, and modern web apps
+
+🚀 Passionate about building production-ready products, not just demos
+
+🛠️ What I’m Working On
+
+🧠 BuildHand – AI Orchestra System
+Central AI brain coordinating multiple AI agents for construction planning & decision-making
+
+🌐 Next.js Full-Stack Applications
+Auth, dashboards, APIs, real-time features, and deployment
+
+👨‍💼 Client Projects
+End-to-end delivery: UI → Backend → Database → Deployment
+
+💻 Core Skills
+
 
 
 ## 🌐 Socials:
@@ -12,14 +35,7 @@ i am looking for the intership in ai and fullstack devlopmet i have won multiple
 ![](https://nirzak-streak-stats.vercel.app/?user=Smeer119&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Smeer119&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Smeer119&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Smeer119&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Smeer119&icon=0&color=0)](https://visitcount.itsvg.in)
