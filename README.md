@@ -2,7 +2,7 @@
 
 Hi 👋 I’m Sujal Bagavan, an AI & Full-Stack Developer i build product sass ,micro sass every month either for me or clients currently looking for full time opportunity 
 
-🏆 Winner of multiple hackathons
+🏆 Winner of multiple hackathons like runner up at belgavi best developer champion 🏆 hosted by  Google developers group gdg belgavi 
 
 🤖 Built AI-powered systems and full-stack applications for real clients
 
