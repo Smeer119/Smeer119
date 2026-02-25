@@ -1,6 +1,6 @@
 💫 About Me
 
-Hi 👋 I’m Sujal Bagavan, an AI & Full-Stack Developer i build product sass ,micro sass every month either for me or clinet currently looking for full time opportunity 
+Hi 👋 I’m Sujal Bagavan, an AI & Full-Stack Developer i build product sass ,micro sass every month either for me or clients currently looking for full time opportunity 
 
 🏆 Winner of multiple hackathons
 
