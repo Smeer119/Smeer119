@@ -30,7 +30,7 @@ End-to-end delivery: UI → Backend → Database → Deployment
 
 
 
-protofolio: sujalbuild.in 
+protofolio: sujalbuild.in
 
 
 
